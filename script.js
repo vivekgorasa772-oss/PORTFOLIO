@@ -1,3 +1,4 @@
+
 const typingTitle = document.getElementById("typing-title");
 
 const role = "B.Tech CSE Student";
